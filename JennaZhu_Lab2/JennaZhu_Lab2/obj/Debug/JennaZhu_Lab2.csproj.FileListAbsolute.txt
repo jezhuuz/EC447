@@ -1,0 +1,10 @@
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\JennaZhu_Lab2\JennaZhu_Lab2\bin\Debug\JennaZhu_Lab2.exe.config
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\JennaZhu_Lab2\JennaZhu_Lab2\bin\Debug\JennaZhu_Lab2.exe
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\JennaZhu_Lab2\JennaZhu_Lab2\bin\Debug\JennaZhu_Lab2.pdb
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\JennaZhu_Lab2\JennaZhu_Lab2\obj\Debug\JennaZhu_Lab2.csprojResolveAssemblyReference.cache
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\JennaZhu_Lab2\JennaZhu_Lab2\obj\Debug\JennaZhu_Lab2.Form1.resources
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\JennaZhu_Lab2\JennaZhu_Lab2\obj\Debug\JennaZhu_Lab2.Properties.Resources.resources
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\JennaZhu_Lab2\JennaZhu_Lab2\obj\Debug\JennaZhu_Lab2.csproj.GenerateResource.Cache
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\JennaZhu_Lab2\JennaZhu_Lab2\obj\Debug\JennaZhu_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\JennaZhu_Lab2\JennaZhu_Lab2\obj\Debug\JennaZhu_Lab2.exe
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\JennaZhu_Lab2\JennaZhu_Lab2\obj\Debug\JennaZhu_Lab2.pdb

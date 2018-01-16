@@ -1,0 +1,9 @@
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\jennazhu_Lab1\jennazhu_Lab1\bin\Debug\jennazhu_Lab1.exe.config
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\jennazhu_Lab1\jennazhu_Lab1\bin\Debug\jennazhu_Lab1.exe
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\jennazhu_Lab1\jennazhu_Lab1\bin\Debug\jennazhu_Lab1.pdb
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\jennazhu_Lab1\jennazhu_Lab1\obj\Debug\jennazhu_Lab1.Form1.resources
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\jennazhu_Lab1\jennazhu_Lab1\obj\Debug\jennazhu_Lab1.Properties.Resources.resources
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\jennazhu_Lab1\jennazhu_Lab1\obj\Debug\jennazhu_Lab1.csproj.GenerateResource.Cache
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\jennazhu_Lab1\jennazhu_Lab1\obj\Debug\jennazhu_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\jennazhu_Lab1\jennazhu_Lab1\obj\Debug\jennazhu_Lab1.exe
+C:\Users\jzhuc\OneDrive\Documents\College\Software Design\jennazhu_Lab1\jennazhu_Lab1\obj\Debug\jennazhu_Lab1.pdb
